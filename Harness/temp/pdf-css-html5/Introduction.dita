@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\ktcri\OneDrive\Desktop\Harness\temp\pdf-css-html5?><?workdir-uri file:/C:/Users/ktcri/OneDrive/Desktop/Harness/temp/pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="concept_jth_wwj_53c" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/Users/ktcri/OneDrive/Desktop/Harness/Introduction.dita" xtrc="concept:1;3:35" specializations="@props/deliveryTarget">
-    <title class="- topic/title " xtrf="file:/C:/Users/ktcri/OneDrive/Desktop/Harness/Introduction.dita" xtrc="title:1;4:12">Introduction</title>
-    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/ktcri/OneDrive/Desktop/Harness/Introduction.dita" xtrc="shortdesc:1;5:16">Harness.io manages the full lifecycle of the CI/CD (Continuous Integration/Continuous
-        Deployment) process. You can define and automate your build, test, and deployment pipelines
-        using easy-toc-configure YAML files, and the pipelines can also be version-controlled,
-        making updates and changes simpler. Harness supports parallel execution of jobs, allowing
-        you to run builds, tests, and deployments simultaneously.</shortdesc>
-</concept>
