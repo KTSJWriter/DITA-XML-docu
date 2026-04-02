@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_i1q_bdk_53c">
+    <title>Access and Roles</title>
+    <shortdesc>Go to <b>MyAccess</b> (go/myaccess) to request the necessary roles.</shortdesc>
+    <conbody>
+        <ul id="ul_cbz_2dk_53c">
+            <li>To use Harness:  <b>PP_SSO_Harness_io_platform_operator</b></li>
+            <li>To deploy to Production:  <b>PP_HRZ_SITEAD_Altus_Deployment</b> (you must also have
+                current <b>SRE IPCF Training</b>, previously known as "Think Twice"),</li>
+        </ul>
+        <p>Requests go to your manager for approval and may take 40 minutes to sync. For information
+            about other roles, see <b>Harness.io Roles in MyAccess</b>.</p>
+        <p>To log in to Harness, go <b>here</b>, click the "Single sign-on" button, and enter your
+            PayPal email address.</p>
+    </conbody>
+</concept>

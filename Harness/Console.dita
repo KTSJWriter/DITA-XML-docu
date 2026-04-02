@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_cwt_dmk_53c">
+    <title>Console (Raptor/Kraken/Node.js)</title>
+    <taskbody>
+        <prereq id="prereq_alw_gmk_53c">
+            <p>Make sure you have requested the required roles and that you have completed <b>SRE
+                    IPCF Training</b>.</p>
+        </prereq>
+        <context>
+            <p>These instructions are for a <b><u>new</u></b> application. If your application was
+                already onboarded to Harness, see <b>Harness Pipeline Upgrade</b>.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Go to <b>Console</b>.</cmd>
+            </step>
+            <step>
+                <cmd>Navigate to your application by clicking "Applications" in the left nav and
+                    then finding it under "Recent" or by using Search.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

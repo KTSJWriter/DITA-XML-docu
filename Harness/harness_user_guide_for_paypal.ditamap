@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Harness User Guide for PayPal</title>
+    <topichead navtitle="Introduction">
+        <topicref href="Overview.dita"/>
+        <topicref href="Access%20and%20Roles.dita"/>
+    </topichead>
+    <topichead navtitle="Onboard Your Application">
+        <topicref href="Console.dita"/>
+    </topichead>
+</map>
